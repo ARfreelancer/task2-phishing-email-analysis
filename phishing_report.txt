@@ -1,0 +1,53 @@
+============================================================
+PHISHING EMAIL ANALYSIS REPORT
+Date   : 2026-06-01 11:35:02.774731
+============================================================
+
+PHISHING SCORE : 100/100
+VERDICT        : HIGH RISK - Very likely PHISHING!
+
+------------------------------------------------------------
+INDICATORS FOUND:
+
+1. Urgent/Threatening Keywords (6 found):
+   - urgent
+   - suspended
+   - click here
+   - unusual activity
+   - within 24 hours
+   - frozen
+
+2. Suspicious Domains/URLs (6 found):
+   - .xyz
+   - paypa1
+   - -secure
+   - -verify
+   - -alert
+   - -support
+
+3. Sensitive Info Requested (6 found):
+   - credit card
+   - cvv
+   - social security
+   - date of birth
+   - card number
+   - expiry
+
+4. Spelling Errors (4 found):
+   - permenantly
+   - securty
+   - califronia
+   - account
+
+5. Suspicious Sender Patterns (2 found):
+   - paypa1
+   - -support.com
+
+============================================================
+RECOMMENDATIONS:
+1. Do NOT click any links in this email
+2. Do NOT provide any personal information
+3. Report email as phishing/spam
+4. Delete the email immediately
+5. Inform your IT/security team
+============================================================

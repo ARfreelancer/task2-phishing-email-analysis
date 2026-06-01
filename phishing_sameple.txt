@@ -1,0 +1,35 @@
+FROM: security-alert@paypa1-support.com
+TO: victim@gmail.com
+DATE: Mon, 01 Jun 2026 03:22:11 -0700
+SUBJECT: URGENT: Your PayPal Account Has Been Suspended!
+MESSAGE-ID: <x9k2m@paypa1-support.com>
+RECEIVED: from mail.paypa1-support.com (192.168.45.231)
+X-SPAM-STATUS: Yes
+X-ORIGINATING-IP: 185.234.219.110
+MIME-Version: 1.0
+Content-Type: text/html
+
+Dear Valued Customer,
+
+We have detected UNUSUAL ACTIVITY on your PayPal account.
+Your account has been SUSPENDED immediately for your protection.
+
+You must verify your account within 24 HOURS or it will be
+PERMANENTLY DELETED!
+
+Click here to verify your account immediately:
+http://paypal-secure-verify.xyz/login?ref=suspend123
+
+Your details required:
+- Full Name
+- Credit Card Number
+- CVV and Expiry Date
+- Social Security Number
+- Date of Birth
+
+If you do not respond within 24 hours your account will be
+permenantly closed and all funds will be frozen.
+
+Regards,
+PayPal Securty Team
+PayPal Inc, Califronia USA
