@@ -44,6 +44,7 @@ Amazon to steal your passwords and personal information.
 | File | Description |
 |------|-------------|
 | analyze.py | Python phishing analyzer (user input) |
+| screenshot_analyze.png | Output of the python code |
 | phishing_sample.txt | Sample phishing email used |
 | phishing_report.txt | Auto generated analysis report |
 | screenshot_mxtoolbox.png | MXToolbox header analysis result |
